@@ -1,0 +1,11 @@
+{
+  "name": "caisse-front",
+  "version": "1.0.0",
+  "description": "js html css (grid) frontend for cash register",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flieh",
+  "license": "MIT"
+}
